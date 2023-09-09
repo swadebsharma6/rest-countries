@@ -1,0 +1,14 @@
+.country {
+  border: 1px solid gray;
+  padding: 1dvh;
+  border-radius: 10px;
+}
+.btn {
+  padding: 10px 40px;
+  border: none;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+.visited {
+  background-color: bisque;
+}
